@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.2"
   latestRelease: "v2.11.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:17:08Z
+  collectedAt: 2026-09-10T17:39:27Z
 timeline:
   created: 2026-03-23
   lastCommit: 2026-09-01
@@ -85,7 +85,7 @@ total:
   commit: 263
 ---
 path: /home/runner/.x-repo/github.com/kts982/wintui
-collectedAt: 2026-09-10T05:17:09Z
+collectedAt: 2026-09-10T17:39:31Z
 loc:
   Go:
     code: 27477
