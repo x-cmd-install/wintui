@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7942144,
       "digest": "sha256:7b6b20aff8ad2a647a3df2a958b01efdd4172bd41ddf82fa384ffcd5dd3e0cc1",
-      "download_count": 153,
+      "download_count": 160,
       "created_at": "2026-08-28T15:01:51Z",
       "updated_at": "2026-08-28T15:01:51Z",
       "browser_download_url": "https://github.com/kts982/wintui/releases/download/v2.11.2/wintui_2.11.2_windows_amd64.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7358464,
       "digest": "sha256:e36701160cd3ff0d21e7b50a692db765d831c6fb4d09d9624cf1ab0ede976a9b",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-08-28T15:01:51Z",
       "updated_at": "2026-08-28T15:01:51Z",
       "browser_download_url": "https://github.com/kts982/wintui/releases/download/v2.11.2/wintui_2.11.2_windows_arm64.exe"
