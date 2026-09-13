@@ -14,19 +14,19 @@ x install wintui
 
 ## Code insight
 
-Total: **29,348** lines of code across **223** files in the top 5 languages.
+Total: **33,664** lines of code across **241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 27,477 | 2,432 | 3,185 | 112 |
-| Yaml | 1,517 | 78 | 84 | 78 |
+| Go | 31,725 | 3,159 | 3,542 | 126 |
+| Yaml | 1,585 | 81 | 88 | 81 |
 | PowerShell | 293 | 62 | 60 | 2 |
 | Json | 61 | 0 | 0 | 1 |
-| Markdown | 0 | 2,026 | 670 | 30 |
+| Markdown | 0 | 2,366 | 731 | 31 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.4 / 10**
+Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.11.2` (2026-08-28)
-- **Last commit**: 2026-09-01
+- **Latest**: `v2.12.0` (2026-09-12)
+- **Last commit**: 2026-09-12
 - **Assets in release**: 6
 
 ## Popularity
@@ -51,29 +51,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 16 · **Open PRs**: 0 · **Closed issues**: 35 · **Open issues**: 0 · **Commits**: 263
+- **Releases**: 28 · **Merged PRs**: 16 · **Open PRs**: 0 · **Closed issues**: 35 · **Open issues**: 0 · **Commits**: 277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 2 | 0 | 0 | 0 | 9 |
-| last60d | 2026-07-14 | 2 | 4 | 0 | 0 | 0 | 11 |
-| 90d | 2026-06-14 | 4 | 6 | 0 | 0 | 0 | 37 |
-| last180d | 2026-03-16 | 27 | 16 | 0 | 35 | 0 | 262 |
-| 360d | 2025-09-17 | 27 | 16 | 0 | 35 | 0 | 262 |
-| last720d | 2024-09-22 | 27 | 16 | 0 | 35 | 0 | 263 |
+| 30d | 2026-08-14 | 3 | 2 | 0 | 0 | 0 | 19 |
+| last60d | 2026-07-15 | 3 | 4 | 0 | 0 | 0 | 25 |
+| 90d | 2026-06-15 | 5 | 6 | 0 | 0 | 0 | 44 |
+| last180d | 2026-03-17 | 28 | 16 | 0 | 35 | 0 | 275 |
+| 360d | 2025-09-18 | 28 | 16 | 0 | 35 | 0 | 276 |
+| last720d | 2024-09-23 | 28 | 16 | 0 | 35 | 0 | 277 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/kts982/wintui/releases/download/v2.11.2/checksums.txt) | 392 B | `other` |
-| [wintui_2.11.2_windows_amd64.exe](https://github.com/kts982/wintui/releases/download/v2.11.2/wintui_2.11.2_windows_amd64.exe) | 7.6 MiB | `native/win/x64` |
-| [wintui_2.11.2_windows_amd64.zip](https://github.com/kts982/wintui/releases/download/v2.11.2/wintui_2.11.2_windows_amd64.zip) | 2.7 MiB | `native/win/x64` |
-| [wintui_2.11.2_windows_arm64.exe](https://github.com/kts982/wintui/releases/download/v2.11.2/wintui_2.11.2_windows_arm64.exe) | 7.0 MiB | `native/win/arm64` |
-| [wintui_2.11.2_windows_arm64.zip](https://github.com/kts982/wintui/releases/download/v2.11.2/wintui_2.11.2_windows_arm64.zip) | 2.5 MiB | `native/win/arm64` |
-| [wintui_provenance.intoto.jsonl](https://github.com/kts982/wintui/releases/download/v2.11.2/wintui_provenance.intoto.jsonl) | 10.6 KiB | `other` |
+| [checksums.txt](https://github.com/kts982/wintui/releases/download/v2.12.0/checksums.txt) | 392 B | `other` |
+| [wintui_2.12.0_windows_amd64.exe](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_amd64.exe) | 7.8 MiB | `native/win/x64` |
+| [wintui_2.12.0_windows_amd64.zip](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_amd64.zip) | 2.8 MiB | `native/win/x64` |
+| [wintui_2.12.0_windows_arm64.exe](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_arm64.exe) | 7.2 MiB | `native/win/arm64` |
+| [wintui_2.12.0_windows_arm64.zip](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_arm64.zip) | 2.6 MiB | `native/win/arm64` |
+| [wintui_provenance.intoto.jsonl](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_provenance.intoto.jsonl) | 10.6 KiB | `other` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for wintui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:09:01Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:25:03Z._
