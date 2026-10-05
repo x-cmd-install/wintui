@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 0 | 2 | 0 | 0 | 3 |
-| last60d | 2026-08-05 | 3 | 2 | 2 | 0 | 0 | 23 |
-| 90d | 2026-07-06 | 4 | 6 | 2 | 0 | 0 | 25 |
-| last180d | 2026-04-07 | 24 | 7 | 2 | 1 | 0 | 156 |
-| 360d | 2025-10-09 | 28 | 16 | 2 | 35 | 0 | 276 |
-| last720d | 2024-10-14 | 28 | 16 | 2 | 35 | 0 | 277 |
+| 30d | 2026-09-05 | 1 | 0 | 2 | 0 | 0 | 3 |
+| last60d | 2026-08-06 | 3 | 2 | 2 | 0 | 0 | 23 |
+| 90d | 2026-07-07 | 4 | 6 | 2 | 0 | 0 | 25 |
+| last180d | 2026-04-08 | 24 | 7 | 2 | 1 | 0 | 156 |
+| 360d | 2025-10-10 | 28 | 16 | 2 | 35 | 0 | 276 |
+| last720d | 2024-10-15 | 28 | 16 | 2 | 35 | 0 | 277 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wintui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:18:24Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:01:33Z._
