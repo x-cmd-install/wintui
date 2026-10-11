@@ -14,11 +14,11 @@ x install wintui
 
 ## Code insight
 
-Total: **33,664** lines of code across **241** files in the top 5 languages.
+Total: **33,720** lines of code across **241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 31,725 | 3,159 | 3,542 | 126 |
+| Go | 31,781 | 3,183 | 3,546 | 126 |
 | Yaml | 1,585 | 81 | 88 | 81 |
 | PowerShell | 293 | 62 | 60 | 2 |
 | Json | 61 | 0 | 0 | 1 |
@@ -30,9 +30,9 @@ Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.12.0` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-10-10
 - **Assets in release**: 6
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 16 · **Open PRs**: 2 · **Closed issues**: 35 · **Open issues**: 0 · **Commits**: 277
+- **Releases**: 28 · **Merged PRs**: 17 · **Open PRs**: 0 · **Closed issues**: 35 · **Open issues**: 0 · **Commits**: 282
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 0 | 2 | 0 | 0 | 3 |
-| last60d | 2026-08-11 | 3 | 2 | 2 | 0 | 0 | 23 |
-| 90d | 2026-07-12 | 3 | 4 | 2 | 0 | 0 | 25 |
-| last180d | 2026-04-13 | 20 | 7 | 2 | 1 | 0 | 156 |
-| 360d | 2025-10-15 | 28 | 16 | 2 | 35 | 0 | 276 |
-| last720d | 2024-10-20 | 28 | 16 | 2 | 35 | 0 | 277 |
+| 30d | 2026-09-11 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-12 | 3 | 3 | 0 | 0 | 0 | 24 |
+| 90d | 2026-07-13 | 3 | 5 | 0 | 0 | 0 | 30 |
+| last180d | 2026-04-14 | 20 | 8 | 0 | 1 | 0 | 144 |
+| 360d | 2025-10-16 | 28 | 17 | 0 | 35 | 0 | 281 |
+| last720d | 2024-10-21 | 28 | 17 | 0 | 35 | 0 | 282 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wintui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:17:20Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:08:30Z._
