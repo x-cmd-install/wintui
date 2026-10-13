@@ -32,7 +32,7 @@ x install wintui
 
 - **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install wintui
 
 ## 流行度
 
-- **Star**: 39 · **Fork**: 2 · **开放 issue**: 35 · **贡献者**: 1
+- **Star**: 40 · **Fork**: 2 · **开放 issue**: 35 · **贡献者**: 1
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install wintui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 1 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-13 | 3 | 3 | 0 | 0 | 0 | 24 |
-| 90d | 2026-07-14 | 3 | 5 | 0 | 0 | 0 | 30 |
-| last180d | 2026-04-15 | 20 | 8 | 0 | 1 | 0 | 144 |
-| 360d | 2025-10-17 | 28 | 17 | 0 | 35 | 0 | 281 |
-| last720d | 2024-10-22 | 28 | 17 | 0 | 35 | 0 | 282 |
+| 30d | 2026-09-13 | 0 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-14 | 3 | 3 | 0 | 0 | 0 | 24 |
+| 90d | 2026-07-15 | 3 | 5 | 0 | 0 | 0 | 30 |
+| last180d | 2026-04-16 | 19 | 8 | 0 | 1 | 0 | 144 |
+| 360d | 2025-10-18 | 28 | 17 | 0 | 35 | 0 | 281 |
+| last720d | 2024-10-23 | 28 | 17 | 0 | 35 | 0 | 282 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ wintui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:29:58Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:24:18Z._
