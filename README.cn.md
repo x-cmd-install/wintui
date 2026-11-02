@@ -14,25 +14,25 @@ x install wintui
 
 ## 代码洞察
 
-合计: **33,720** 行代码（覆盖前 5 种语言、共 **241** 个文件）。
+合计: **36,327** 行代码（覆盖前 5 种语言、共 **254** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 31,781 | 3,183 | 3,546 | 126 |
-| Yaml | 1,585 | 81 | 88 | 81 |
-| PowerShell | 293 | 62 | 60 | 2 |
+| Go | 33,980 | 3,511 | 3,736 | 135 |
+| Yaml | 1,653 | 84 | 91 | 84 |
+| PowerShell | 633 | 177 | 106 | 2 |
 | Json | 61 | 0 | 0 | 1 |
-| Markdown | 0 | 2,366 | 731 | 31 |
+| Markdown | 0 | 2,574 | 767 | 32 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.5 / 10**
+总评分: **7.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
+- **CI-Tests** (-1/10) — no pull request found
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -41,8 +41,8 @@ x install wintui
 
 ## 发布
 
-- **最新版本**: `v2.12.0` (2026-09-12)
-- **最近提交**: 2026-10-10
+- **最新版本**: `v2.12.1` (2026-11-01)
+- **最近提交**: 2026-11-01
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -51,29 +51,29 @@ x install wintui
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 17 · **开放 PR**: 0 · **已关闭 issue**: 35 · **开放 issue**: 0 · **提交数**: 282
+- **发布数**: 29 · **已合并 PR**: 17 · **开放 PR**: 0 · **已关闭 issue**: 35 · **开放 issue**: 0 · **提交数**: 309
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-02 | 1 | 1 | 0 | 0 | 0 | 8 |
-| 90d | 2026-08-03 | 3 | 3 | 0 | 0 | 0 | 30 |
-| last180d | 2026-05-05 | 12 | 8 | 0 | 1 | 0 | 92 |
-| 360d | 2025-11-06 | 28 | 17 | 0 | 35 | 0 | 281 |
-| last720d | 2024-11-11 | 28 | 17 | 0 | 35 | 0 | 282 |
+| 30d | 2026-10-03 | 1 | 0 | 0 | 0 | 0 | 32 |
+| last60d | 2026-09-03 | 2 | 1 | 0 | 0 | 0 | 35 |
+| 90d | 2026-08-04 | 4 | 3 | 0 | 0 | 0 | 57 |
+| last180d | 2026-05-06 | 13 | 8 | 0 | 0 | 0 | 119 |
+| 360d | 2025-11-07 | 29 | 17 | 0 | 35 | 0 | 308 |
+| last720d | 2024-11-12 | 29 | 17 | 0 | 35 | 0 | 309 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kts982/wintui/releases/download/v2.12.0/checksums.txt) | 392 B | `other` |
-| [wintui_2.12.0_windows_amd64.exe](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_amd64.exe) | 7.8 MiB | `native/win/x64` |
-| [wintui_2.12.0_windows_amd64.zip](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_amd64.zip) | 2.8 MiB | `native/win/x64` |
-| [wintui_2.12.0_windows_arm64.exe](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_arm64.exe) | 7.2 MiB | `native/win/arm64` |
-| [wintui_2.12.0_windows_arm64.zip](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_2.12.0_windows_arm64.zip) | 2.6 MiB | `native/win/arm64` |
-| [wintui_provenance.intoto.jsonl](https://github.com/kts982/wintui/releases/download/v2.12.0/wintui_provenance.intoto.jsonl) | 10.6 KiB | `other` |
+| [checksums.txt](https://github.com/kts982/wintui/releases/download/v2.12.1/checksums.txt) | 392 B | `other` |
+| [wintui_2.12.1_windows_amd64.exe](https://github.com/kts982/wintui/releases/download/v2.12.1/wintui_2.12.1_windows_amd64.exe) | 7.9 MiB | `native/win/x64` |
+| [wintui_2.12.1_windows_amd64.zip](https://github.com/kts982/wintui/releases/download/v2.12.1/wintui_2.12.1_windows_amd64.zip) | 2.9 MiB | `native/win/x64` |
+| [wintui_2.12.1_windows_arm64.exe](https://github.com/kts982/wintui/releases/download/v2.12.1/wintui_2.12.1_windows_arm64.exe) | 7.3 MiB | `native/win/arm64` |
+| [wintui_2.12.1_windows_arm64.zip](https://github.com/kts982/wintui/releases/download/v2.12.1/wintui_2.12.1_windows_arm64.zip) | 2.6 MiB | `native/win/arm64` |
+| [wintui_provenance.intoto.jsonl](https://github.com/kts982/wintui/releases/download/v2.12.1/wintui_provenance.intoto.jsonl) | 10.8 KiB | `other` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ wintui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T06:31:49Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T06:43:32Z._
