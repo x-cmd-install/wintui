@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43 · **Forks**: 2 · **Open issues**: 35 · **Contributors**: 1
+- **Stars**: 44 · **Forks**: 2 · **Open issues**: 35 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 0 | 0 | 0 | 0 | 27 |
-| last60d | 2026-09-21 | 1 | 1 | 0 | 0 | 0 | 32 |
-| 90d | 2026-08-22 | 3 | 3 | 0 | 0 | 0 | 51 |
-| last180d | 2026-05-24 | 8 | 7 | 0 | 0 | 0 | 107 |
-| 360d | 2025-11-25 | 29 | 17 | 0 | 35 | 0 | 308 |
-| last720d | 2024-11-30 | 29 | 17 | 0 | 35 | 0 | 309 |
+| 30d | 2026-10-22 | 1 | 0 | 0 | 0 | 0 | 27 |
+| last60d | 2026-09-22 | 1 | 1 | 0 | 0 | 0 | 32 |
+| 90d | 2026-08-23 | 3 | 3 | 0 | 0 | 0 | 51 |
+| last180d | 2026-05-25 | 8 | 7 | 0 | 0 | 0 | 107 |
+| 360d | 2025-11-26 | 29 | 17 | 0 | 35 | 0 | 308 |
+| last720d | 2024-12-01 | 29 | 17 | 0 | 35 | 0 | 309 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wintui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:36:03Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:39:36Z._
